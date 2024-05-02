@@ -13,6 +13,7 @@ Refer to my MYSQL Query
 https://github.com/SofiaArjunan/Amazon-sales/blob/main/amazon.sql
 
 
+
 Power BI- Creating dashboard
 
 ![amazon1](https://github.com/SofiaArjunan/Amazon-sales/assets/168706952/00d23300-1158-4ab3-9882-04a3a621480b)
