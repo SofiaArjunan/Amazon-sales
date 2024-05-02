@@ -6,6 +6,6 @@ The goal of this project is to use SQL and Power BI to analyze specific types of
 
 #Tools used:
 
-MYSQL- Data cleaning, Data analysing
+MYSQL- Data cleaning, Data analysing 
 
 Power BI- Creating dashboard
